@@ -1,0 +1,7 @@
+cd d:\Desarrollo\tools\llm-council
+python -m uv run python -m backend.main
+Terminal 2 (Frontend):
+
+bash
+cd d:\Desarrollo\tools\llm-council\frontend
+npm run dev
